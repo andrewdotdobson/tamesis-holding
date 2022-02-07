@@ -1,7 +1,7 @@
 ---
-title: Most AWE.SOME Features
-afterTitle: ...and so much more!
+title: Our services
+afterTitle: See our work
 type: features
 ---
 
-Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id.
+Our bread-and-butter is design and development for CMS and e-commerce websites and apps, but we can help our clients in other ways too with our extensive digital and business know-how.

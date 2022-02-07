@@ -1,0 +1,27 @@
+{% for item in collections.sections %}
+  {% if item.data.type === 'work' %}
+    <div id="about" class="w-full min-h-screen flex flex-col justify-center items-center py-12">
+      <div class="self-center text-center w-full sm:w-2/3 px-4 sm:px-0">
+        <h2 class="font-bold tracking-wider text-gray-800 text-4xl mb-4">{{ item.data.title }}</h2>
+        <div class="font-light text-black text-xl">
+          {{ item.templateContent | safe }}
+        </div>
+        <div class="self-center text-left w-full flex flex-col sm:flex-row flex-wrap px-4 xl:px:0">
+        {% for item in work %}
+          <div class="w-full sm:w-1/2 flex flex-col flex-no-wrap px-2 sm:px-2 py-6 sm:py-6">
+            <div class="w-full">
+              <img src="/img/casestudies/{{ item.image }}" alt="{{ item.title }}" class="block sm:mx-auto">
+            </div>
+            <div class="w-full">
+              <h3 class="text-black font-bold text-xl uppercase my-6">{{ item.title }}</h3>
+              <div class="font-light text-black text-md">
+                {{ item.content | markdown | safe }}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}

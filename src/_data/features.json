@@ -1,32 +1,42 @@
 [
   {
-    "title": "AWE.SOME Feature One",
+    "title": "Design",
     "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "We know what engages people online, and we find creative ways to build that into our site designs."
   },
   {
-    "title": "AWE.SOME Feature Two",
+    "title": "Content Management",
     "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Content management systems (CMS) allow you to edit the content of your website without any technical knowledge."
   },
   {
-    "title": "AWE.SOME Feature Three",
-    "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Four",
+    "title": "E-Commerce",
     "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "We understand what leads an online shopper to buy there and then, instead of purchasing somewhere else."
   },
   {
-    "title": "AWE.SOME Feature Five",
-    "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Mobile Apps",
+    "icon": "icon3.svg",
+    "content": "We get the best of new technologies for great user experience on modern devices"
   },
   {
-    "title": "AWE.SOME Feature Six",
+    "title": "Project Management",
     "icon": "icon6.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Whatever your project, we can be the expert on “your side”, providing consultancy and project management to get the best possible value for money from your third-party web development partner."
+  },
+  {
+    "title": "Business Analysis",
+    "icon": "icon7.svg",
+    "content": "Business analysis means getting “under the skin” of an organisation and its business model, applying our extensive business and technical know-how to figure out how to get digital technology really delivering dividends."
+  },
+  {
+    "title": "Site Makeovers",
+    "icon": "icon5.svg",
+    "content": "Bring your tried and trusted website up-to-date for new devices and technologies"
+  },
+  {
+    "title": "Online Strategy",
+    "icon": "icon8.svg",
+    "content": "We help you seize the opportunities to build your brand and customer base online"
   }
 ]
