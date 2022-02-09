@@ -100,6 +100,7 @@ module.exports = {
       'gradient-to-bl': 'linear-gradient(to bottom left, var(--tw-gradient-stops))',
       'gradient-to-l': 'linear-gradient(to left, var(--tw-gradient-stops))',
       'gradient-to-tl': 'linear-gradient(to top left, var(--tw-gradient-stops))',
+      'hero': "url('/img/header1.jpg')",
     },
     backgroundOpacity: (theme) => theme('opacity'),
     backgroundPosition: {
