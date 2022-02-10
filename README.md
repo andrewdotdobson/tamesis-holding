@@ -1,4 +1,4 @@
-# 11ty-landing-page
+# Tamesis Digital holding page
 
 A simple landing page built with 11ty and Tailwind CSS.
 

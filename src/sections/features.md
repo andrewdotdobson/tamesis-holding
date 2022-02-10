@@ -1,6 +1,6 @@
 ---
 title: Our services
-afterTitle: See our work
+afterTitle: Contact Us
 type: features
 ---
 
